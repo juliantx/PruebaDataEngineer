@@ -1,0 +1,177 @@
+Archivo procesado: 2012-1.csv
+
+Filas cargadas: 1 precio_enviado:  50.0 Max: 50.0 Min: 50.0 Prom: 50.0
+Filas cargadas: 2 precio_enviado:  87.0 Max: 87.0 Min: 50.0 Prom: 68.5
+Filas cargadas: 3 precio_enviado:  64.0 Max: 87.0 Min: 50.0 Prom: 67.0
+Filas cargadas: 4 precio_enviado:  20.0 Max: 87.0 Min: 20.0 Prom: 55.25
+Filas cargadas: 5 precio_enviado:  14.0 Max: 87.0 Min: 14.0 Prom: 47.0
+Filas cargadas: 6 precio_enviado:  95.0 Max: 95.0 Min: 14.0 Prom: 55.0
+Filas cargadas: 7 precio_enviado:  95.0 Max: 95.0 Min: 14.0 Prom: 60.714285714285715
+Filas cargadas: 8 precio_enviado:  62.0 Max: 95.0 Min: 14.0 Prom: 60.875
+Filas cargadas: 9 precio_enviado:  46.0 Max: 95.0 Min: 14.0 Prom: 59.22222222222222
+Filas cargadas: 10 precio_enviado:  97.0 Max: 97.0 Min: 14.0 Prom: 63.0
+Filas cargadas: 11 precio_enviado:  31.0 Max: 97.0 Min: 14.0 Prom: 60.09090909090909
+Filas cargadas: 12 precio_enviado:  37.0 Max: 97.0 Min: 14.0 Prom: 58.166666666666664
+Filas cargadas: 13 precio_enviado:  74.0 Max: 97.0 Min: 14.0 Prom: 59.38461538461539
+Filas cargadas: 14 precio_enviado:  45.0 Max: 97.0 Min: 14.0 Prom: 58.357142857142854
+Filas cargadas: 15 precio_enviado:  27.0 Max: 97.0 Min: 14.0 Prom: 56.266666666666666
+Filas cargadas: 16 precio_enviado:  78.0 Max: 97.0 Min: 14.0 Prom: 57.625
+Filas cargadas: 17 precio_enviado:  42.0 Max: 97.0 Min: 14.0 Prom: 56.705882352941174
+Filas cargadas: 18 precio_enviado:  45.0 Max: 97.0 Min: 14.0 Prom: 56.05555555555556
+Filas cargadas: 19 precio_enviado:  96.0 Max: 97.0 Min: 14.0 Prom: 58.1578947368421
+Filas cargadas: 20 precio_enviado:  88.0 Max: 97.0 Min: 14.0 Prom: 59.65
+máximo: 97.0
+minimo: 14.0
+Promedio: 59.65
+Filas cargadas: 20
+
+
+Archivo procesado: 2012-2.csv
+
+Filas cargadas: 21 precio_enviado:  76 Max: 97 Min: 14 Prom: 60.42857142857143
+Filas cargadas: 22 precio_enviado:  66 Max: 97 Min: 14 Prom: 60.68181818181818
+Filas cargadas: 23 precio_enviado:  47 Max: 97 Min: 14 Prom: 60.08695652173913
+Filas cargadas: 24 precio_enviado:  100 Max: 100 Min: 14 Prom: 61.75
+Filas cargadas: 25 precio_enviado:  19 Max: 100 Min: 14 Prom: 60.04
+Filas cargadas: 26 precio_enviado:  59 Max: 100 Min: 14 Prom: 60.0
+Filas cargadas: 27 precio_enviado:  77 Max: 100 Min: 14 Prom: 60.629629629629626
+Filas cargadas: 28 precio_enviado:  100 Max: 100 Min: 14 Prom: 62.035714285714285
+Filas cargadas: 29 precio_enviado:  55 Max: 100 Min: 14 Prom: 61.793103448275865
+Filas cargadas: 30 precio_enviado:  19 Max: 100 Min: 14 Prom: 60.36666666666667
+Filas cargadas: 31 precio_enviado:  95 Max: 100 Min: 14 Prom: 61.483870967741936
+Filas cargadas: 32 precio_enviado:  73 Max: 100 Min: 14 Prom: 61.84375
+Filas cargadas: 33 precio_enviado:  32 Max: 100 Min: 14 Prom: 60.93939393939394
+Filas cargadas: 34 precio_enviado:  95 Max: 100 Min: 14 Prom: 61.94117647058823
+Filas cargadas: 35 precio_enviado:  12 Max: 100 Min: 12 Prom: 60.51428571428571
+Filas cargadas: 36 precio_enviado:  37 Max: 100 Min: 12 Prom: 59.861111111111114
+Filas cargadas: 37 precio_enviado:  28 Max: 100 Min: 12 Prom: 59.0
+Filas cargadas: 38 precio_enviado:  10 Max: 100 Min: 10 Prom: 57.71052631578947
+Filas cargadas: 39 precio_enviado:  27 Max: 100 Min: 10 Prom: 56.92307692307692
+Filas cargadas: 40 precio_enviado:  14 Max: 100 Min: 10 Prom: 55.85
+Filas cargadas: 41 precio_enviado:  87 Max: 100 Min: 10 Prom: 56.609756097560975
+Filas cargadas: 42 precio_enviado:  75 Max: 100 Min: 10 Prom: 57.04761904761905
+Filas cargadas: 43 precio_enviado:  36 Max: 100 Min: 10 Prom: 56.55813953488372
+Filas cargadas: 44 precio_enviado:  84 Max: 100 Min: 10 Prom: 57.18181818181818
+Filas cargadas: 45 precio_enviado:  62 Max: 100 Min: 10 Prom: 57.28888888888889
+Filas cargadas: 46 precio_enviado:  56 Max: 100 Min: 10 Prom: 57.26086956521739
+Filas cargadas: 47 precio_enviado:  17 Max: 100 Min: 10 Prom: 56.40425531914894
+Filas cargadas: 48 precio_enviado:  64 Max: 100 Min: 10 Prom: 56.5625
+Filas cargadas: 49 precio_enviado:  68 Max: 100 Min: 10 Prom: 56.795918367346935
+máximo: 100
+minimo: 10
+Promedio: 56.795918367346935
+Filas cargadas: 49
+
+
+Archivo procesado: 2012-3.csv
+
+Filas cargadas: 50 precio_enviado:  75 Max: 100 Min: 10 Prom: 57.16
+Filas cargadas: 51 precio_enviado:  12 Max: 100 Min: 10 Prom: 56.27450980392157
+Filas cargadas: 52 precio_enviado:  71 Max: 100 Min: 10 Prom: 56.55769230769231
+Filas cargadas: 53 precio_enviado:  73 Max: 100 Min: 10 Prom: 56.867924528301884
+Filas cargadas: 54 precio_enviado:  21 Max: 100 Min: 10 Prom: 56.2037037037037
+Filas cargadas: 55 precio_enviado:  27 Max: 100 Min: 10 Prom: 55.67272727272727
+Filas cargadas: 56 precio_enviado:  81 Max: 100 Min: 10 Prom: 56.125
+Filas cargadas: 57 precio_enviado:  99 Max: 100 Min: 10 Prom: 56.87719298245614
+Filas cargadas: 58 precio_enviado:  69 Max: 100 Min: 10 Prom: 57.08620689655172
+Filas cargadas: 59 precio_enviado:  19 Max: 100 Min: 10 Prom: 56.440677966101696
+Filas cargadas: 60 precio_enviado:  32 Max: 100 Min: 10 Prom: 56.03333333333333
+Filas cargadas: 61 precio_enviado:  95 Max: 100 Min: 10 Prom: 56.67213114754098
+Filas cargadas: 62 precio_enviado:  71 Max: 100 Min: 10 Prom: 56.903225806451616
+Filas cargadas: 63 precio_enviado:  63 Max: 100 Min: 10 Prom: 57.0
+Filas cargadas: 64 precio_enviado:  53 Max: 100 Min: 10 Prom: 56.9375
+Filas cargadas: 65 precio_enviado:  87 Max: 100 Min: 10 Prom: 57.4
+Filas cargadas: 66 precio_enviado:  89 Max: 100 Min: 10 Prom: 57.878787878787875
+Filas cargadas: 67 precio_enviado:  13 Max: 100 Min: 10 Prom: 57.208955223880594
+Filas cargadas: 68 precio_enviado:  74 Max: 100 Min: 10 Prom: 57.455882352941174
+Filas cargadas: 69 precio_enviado:  84 Max: 100 Min: 10 Prom: 57.84057971014493
+Filas cargadas: 70 precio_enviado:  18 Max: 100 Min: 10 Prom: 57.27142857142857
+Filas cargadas: 71 precio_enviado:  32 Max: 100 Min: 10 Prom: 56.91549295774648
+Filas cargadas: 72 precio_enviado:  96 Max: 100 Min: 10 Prom: 57.458333333333336
+Filas cargadas: 73 precio_enviado:  54 Max: 100 Min: 10 Prom: 57.41095890410959
+Filas cargadas: 74 precio_enviado:  82 Max: 100 Min: 10 Prom: 57.74324324324324
+Filas cargadas: 75 precio_enviado:  74 Max: 100 Min: 10 Prom: 57.96
+Filas cargadas: 76 precio_enviado:  59 Max: 100 Min: 10 Prom: 57.973684210526315
+Filas cargadas: 77 precio_enviado:  33 Max: 100 Min: 10 Prom: 57.64935064935065
+Filas cargadas: 78 precio_enviado:  46 Max: 100 Min: 10 Prom: 57.5
+Filas cargadas: 79 precio_enviado:  83 Max: 100 Min: 10 Prom: 57.822784810126585
+Filas cargadas: 80 precio_enviado:  65 Max: 100 Min: 10 Prom: 57.9125
+máximo: 100
+minimo: 10
+Promedio: 57.9125
+Filas cargadas: 80
+
+
+Archivo procesado: 2012-4.csv
+
+Filas cargadas: 81 precio_enviado:  87.0 Max: 100 Min: 10 Prom: 58.27160493827161
+Filas cargadas: 82 precio_enviado:  43.0 Max: 100 Min: 10 Prom: 58.08536585365854
+Filas cargadas: 83 precio_enviado:  23.0 Max: 100 Min: 10 Prom: 57.66265060240964
+Filas cargadas: 84 precio_enviado:  91.0 Max: 100 Min: 10 Prom: 58.05952380952381
+Filas cargadas: 85 precio_enviado:  81.0 Max: 100 Min: 10 Prom: 58.32941176470588
+Filas cargadas: 86 precio_enviado:  68.0 Max: 100 Min: 10 Prom: 58.44186046511628
+Filas cargadas: 87 precio_enviado:  61.0 Max: 100 Min: 10 Prom: 58.47126436781609
+Filas cargadas: 88 precio_enviado:  13.0 Max: 100 Min: 10 Prom: 57.95454545454545
+Filas cargadas: 89 precio_enviado:  12.0 Max: 100 Min: 10 Prom: 57.438202247191015
+Filas cargadas: 90 precio_enviado:  61.0 Max: 100 Min: 10 Prom: 57.477777777777774
+Filas cargadas: 91 precio_enviado:  63.0 Max: 100 Min: 10 Prom: 57.53846153846154
+Filas cargadas: 92 precio_enviado:  88.0 Max: 100 Min: 10 Prom: 57.869565217391305
+Filas cargadas: 93 precio_enviado:  63.0 Max: 100 Min: 10 Prom: 57.924731182795696
+Filas cargadas: 94 precio_enviado:  50.0 Max: 100 Min: 10 Prom: 57.840425531914896
+Filas cargadas: 95 precio_enviado:  97.0 Max: 100 Min: 10 Prom: 58.252631578947366
+Filas cargadas: 96 precio_enviado:  90.0 Max: 100 Min: 10 Prom: 58.583333333333336
+Filas cargadas: 97 precio_enviado:  79.0 Max: 100 Min: 10 Prom: 58.79381443298969
+Filas cargadas: 98 precio_enviado:  10.0 Max: 100 Min: 10 Prom: 58.295918367346935
+Filas cargadas: 99 precio_enviado:  21.0 Max: 100 Min: 10 Prom: 57.91919191919192
+Filas cargadas: 100 precio_enviado:  68.0 Max: 100 Min: 10 Prom: 58.02
+Filas cargadas: 101 precio_enviado:  77.0 Max: 100 Min: 10 Prom: 58.20792079207921
+Filas cargadas: 102 precio_enviado:  19.0 Max: 100 Min: 10 Prom: 57.8235294117647
+Filas cargadas: 103 precio_enviado:  82.0 Max: 100 Min: 10 Prom: 58.05825242718446
+Filas cargadas: 104 precio_enviado:  43.0 Max: 100 Min: 10 Prom: 57.91346153846154
+Filas cargadas: 105 precio_enviado:  55.0 Max: 100 Min: 10 Prom: 57.885714285714286
+Filas cargadas: 106 precio_enviado:  53.0 Max: 100 Min: 10 Prom: 57.839622641509436
+Filas cargadas: 107 precio_enviado:  33.0 Max: 100 Min: 10 Prom: 57.60747663551402
+Filas cargadas: 108 precio_enviado:  76.0 Max: 100 Min: 10 Prom: 57.77777777777778
+máximo: 100
+minimo: 10
+Promedio: 57.77777777777778
+Filas cargadas: 108
+
+
+Archivo procesado: 2012-5.csv
+
+Filas cargadas: 109 precio_enviado:  82 Max: 100 Min: 10 Prom: 58.0
+Filas cargadas: 110 precio_enviado:  61 Max: 100 Min: 10 Prom: 58.027272727272724
+Filas cargadas: 111 precio_enviado:  19 Max: 100 Min: 10 Prom: 57.67567567567568
+Filas cargadas: 112 precio_enviado:  94 Max: 100 Min: 10 Prom: 58.0
+Filas cargadas: 113 precio_enviado:  17 Max: 100 Min: 10 Prom: 57.63716814159292
+Filas cargadas: 114 precio_enviado:  19 Max: 100 Min: 10 Prom: 57.29824561403509
+Filas cargadas: 115 precio_enviado:  66 Max: 100 Min: 10 Prom: 57.37391304347826
+Filas cargadas: 116 precio_enviado:  13 Max: 100 Min: 10 Prom: 56.991379310344826
+Filas cargadas: 117 precio_enviado:  31 Max: 100 Min: 10 Prom: 56.76923076923077
+Filas cargadas: 118 precio_enviado:  95 Max: 100 Min: 10 Prom: 57.09322033898305
+Filas cargadas: 119 precio_enviado:  77 Max: 100 Min: 10 Prom: 57.260504201680675
+Filas cargadas: 120 precio_enviado:  16 Max: 100 Min: 10 Prom: 56.916666666666664
+Filas cargadas: 121 precio_enviado:  22 Max: 100 Min: 10 Prom: 56.62809917355372
+Filas cargadas: 122 precio_enviado:  91 Max: 100 Min: 10 Prom: 56.90983606557377
+Filas cargadas: 123 precio_enviado:  44 Max: 100 Min: 10 Prom: 56.80487804878049
+Filas cargadas: 124 precio_enviado:  84 Max: 100 Min: 10 Prom: 57.024193548387096
+Filas cargadas: 125 precio_enviado:  64 Max: 100 Min: 10 Prom: 57.08
+Filas cargadas: 126 precio_enviado:  83 Max: 100 Min: 10 Prom: 57.285714285714285
+Filas cargadas: 127 precio_enviado:  30 Max: 100 Min: 10 Prom: 57.07086614173228
+Filas cargadas: 128 precio_enviado:  62 Max: 100 Min: 10 Prom: 57.109375
+Filas cargadas: 129 precio_enviado:  89 Max: 100 Min: 10 Prom: 57.35658914728682
+Filas cargadas: 130 precio_enviado:  88 Max: 100 Min: 10 Prom: 57.59230769230769
+Filas cargadas: 131 precio_enviado:  34 Max: 100 Min: 10 Prom: 57.412213740458014
+Filas cargadas: 132 precio_enviado:  100 Max: 100 Min: 10 Prom: 57.734848484848484
+Filas cargadas: 133 precio_enviado:  77 Max: 100 Min: 10 Prom: 57.8796992481203
+Filas cargadas: 134 precio_enviado:  91 Max: 100 Min: 10 Prom: 58.12686567164179
+Filas cargadas: 135 precio_enviado:  61 Max: 100 Min: 10 Prom: 58.148148148148145
+Filas cargadas: 136 precio_enviado:  67 Max: 100 Min: 10 Prom: 58.213235294117645
+Filas cargadas: 137 precio_enviado:  39 Max: 100 Min: 10 Prom: 58.07299270072993
+Filas cargadas: 138 precio_enviado:  57 Max: 100 Min: 10 Prom: 58.06521739130435
+Filas cargadas: 139 precio_enviado:  33 Max: 100 Min: 10 Prom: 57.884892086330936
+máximo: 100
+minimo: 10
+Promedio: 57.884892086330936
+Filas cargadas: 139
